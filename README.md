@@ -1,1 +1,1 @@
-# resolvaMergeConflictAppacademy
+# resolveMergeConflictAppacademy
